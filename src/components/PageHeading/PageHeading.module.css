@@ -1,0 +1,27 @@
+.input {
+    width: 600px;
+    height: 50px;
+    border-radius: 10px;
+    margin-right: 20px;
+    font-size: xx-large;
+}
+::placeholder {
+    color: gray;
+    font-size: x-large;
+}
+.button {
+    font-size: xx-large;
+    background-color: darkslategray;
+    color: gainsboro;
+    height: 50px;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+form {
+    display: flex;
+    width: 800px;
+    margin: auto;
+    margin-top: 40px;
+    align-items: center;
+}

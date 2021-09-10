@@ -1,0 +1,13 @@
+.img {
+    width: 200px;
+
+}
+
+.item {
+    width: 200px;
+    list-style: none;
+    display: inline-grid;
+    margin: 10px;
+    padding: 10px;
+    background-color: gainsboro;
+}

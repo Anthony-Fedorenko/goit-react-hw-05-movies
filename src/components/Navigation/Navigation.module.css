@@ -1,0 +1,17 @@
+.link {
+    display: inline-block;
+    margin-right: 50px;
+    color: lightgray;
+    text-decoration: none;
+
+}
+nav {
+    width: 400px;
+    margin: auto;
+}
+header {
+    box-shadow: 0 0 5px rgb(0 0 3
+    );
+    background: darkslategray;
+
+}
